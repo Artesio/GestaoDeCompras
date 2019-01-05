@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sgcimage">
+        <file>Aurora.jpg</file>
+        <file>Beachfront_(image_by_Ray_Bilcliff).jpg</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>Beachfront_(image_by_Ray_Bilcliff).jpg</file>
+    </qresource>
+</RCC>
